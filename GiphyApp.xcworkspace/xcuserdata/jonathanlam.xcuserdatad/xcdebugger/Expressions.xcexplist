@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in GiphyAPIService.fetchResult(url:completion:):GiphyAPIService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "responseData.result.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FeedViewController.showPopUpMessage(message:):FeedViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FeedViewController.reloadTableView(_:):FeedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favouriteIds.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FeedTableCell.removeFromFavouritesButton.getter:FeedTableCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "button.imageView?.image">
+            </PersistentString>
+            <PersistentString
+               value = "button.imageView.image == UIImage(named:&quot;dislik2e-icon&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GiphyCoreDataHandler.fetchFavouriteGIPHYs(id:completion:):GiphyCoreDataHandler.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FeedViewController.tableView(_:cellForRowAt:):FeedViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in GiphyAPIService.getTrending(completion:):GiphyAPIService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data![0] as? [String:Any]">
+            </PersistentString>
+            <PersistentString
+               value = "image1![&quot;title&quot;] as? String">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in GiphyAPIService.getTrending():GiphyAPIService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "responseData.result.value as? [String:Any]">
+            </PersistentString>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "let images = data.images">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in ModalPopUp.showAnimation():ModalPopUp.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.alpha">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
